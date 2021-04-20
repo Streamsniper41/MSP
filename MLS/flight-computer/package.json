@@ -1,0 +1,15 @@
+{
+  "name": "flight-computer",
+  "version": "1.0.0",
+  "description": "Main flight computer for the MLS ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "MSP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
