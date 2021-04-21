@@ -1,0 +1,3 @@
+for deployment on veichle. 
+uses epress.js to send data to ground control, and to recvive commands from control. 
+
